@@ -1,5 +1,5 @@
 import java.util.Random;
-import java.util.Scanner; //just to take inpput from keyboard,i am writing these comments bcz it is my 1st project in java
+import java.util.Scanner; //just to take inpput from keyboard,i am writing these comments bcz it is my 1st project in java pr
 class RockPaperScissors {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
