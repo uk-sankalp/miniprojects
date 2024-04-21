@@ -3,7 +3,7 @@ import java.util.*;
  class Quadratic {
         public static void main (String[] args)
         {
-            int a, b, c;
+            // int a, b, c;
             double r1, r2, D;
             Scanner s = new Scanner(System.in);
             System.out.println("Given quadratic equation:ax^2 + bx + c");
