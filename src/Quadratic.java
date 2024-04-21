@@ -21,7 +21,6 @@ import java.util.Scanner;
                 System.out.println("First root is:" + r1);
                 System.out.println("Second root is:" + r2);
             } else if (D == 0)
-//                OOPS Using Java Lab (21SCSL37) Page 2
             {
                 System.out.println("Roots are real and equal");
                 r1 = (-b + Math.sqrt(D)) / (2 * a);
