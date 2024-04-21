@@ -4,16 +4,16 @@ import java.util.*;
         public static void main (String[] args)
         {
             // int a, b, c;
-            double r1, r2, D;
-            Scanner s = new Scanner(System.in);
-            System.out.println("Given quadratic equation:ax^2 + bx + c");
-            System.out.print("Enter a:");
-            a = s.nextInt();
-            System.out.print("Enter b:");
-            b = s.nextInt();
-            System.out.print("Enter c:");
-            c = s.nextInt();
-            D = b * b - 4 * a * c;
+            // double r1, r2, D;
+            // Scanner s = new Scanner(System.in);
+            // System.out.println("Given quadratic equation:ax^2 + bx + c");
+            // System.out.print("Enter a:");
+            // a = s.nextInt();
+            // System.out.print("Enter b:");
+            // b = s.nextInt();
+            // System.out.print("Enter c:");
+            // c = s.nextInt();
+            // D = b * b - 4 * a * c;
             if (D > 0) {
                 System.out.println("Roots are real and unequal");
                 r1 = (-b + Math.sqrt(D)) / (2 * a);
