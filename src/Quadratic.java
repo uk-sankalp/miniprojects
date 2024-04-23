@@ -1,6 +1,5 @@
 import java.util.*;
 import java.util.Scanner;
-import ja
  class Quadratic {
         public static void main (String[] args)
         {
