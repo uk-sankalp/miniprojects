@@ -7,6 +7,7 @@ import java.util.Scanner;
             double r1, r2, D;
             Scanner s = new Scanner(System.in);
             System.out.println("Given quadratic equation:ax^2 + bx + c");
+         //hi i am sa
             System.out.print("Enter a:");
             a = s.nextInt();
             System.out.print("Enter b:");
